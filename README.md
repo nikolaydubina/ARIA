@@ -6,4 +6,4 @@
 
 This implementation written for CS448 Introduction to Information Security course at KAIST in 2015 by Nikolay Dubina.
 
-Refer to specification for Copyright Notice and Lience of ARIA spec.
+Refer to specification for Copyright Notice and Licence of ARIA algorithm.
